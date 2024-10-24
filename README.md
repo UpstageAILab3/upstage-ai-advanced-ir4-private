@@ -860,7 +860,7 @@ TBD
 
 ### Presentation
 
-- - [UpStageAILAB-4th-Competition-IR-Presentation-IR4-20241025.pptx](TBD)
+- - [UpStageAILAB-4th-Competition-IR-Presentation-IR4-20241025.pptx]([TBD](https://docs.google.com/presentation/d/18v89iJzpVrBSn4RgcgUDYV5_aZA37hrc/edit?usp=sharing&ouid=102302788798357252978&rtpof=true&sd=true))
 
 ### Reference
 
