@@ -4,7 +4,7 @@
 
 ## Team
 
-| ![박석](https://avatars.githubusercontent.com/u/5678836?v=4) | ![백경탁](https://avatars.githubusercontent.com/u/62689715?v=4) | ![위효연](https://avatars.githubusercontent.com/newwhy) | ![남상이](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![박석](https://avatars.githubusercontent.com/u/5678836?v=4) | ![백경탁](https://avatars.githubusercontent.com/u/62689715?v=4) | ![위효연](https://avatars.githubusercontent.com/newwhy) | ![남상이](./images/team-member-nse-icon.png) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [박석](https://github.com/parksurk)             |            [백경탁](https://github.com/ktbaek72)             |            [위효연](https://github.com/newwhy)             |            [남상이](https://github.com/UpstageAILab)             |
 |                            Lead, R&D                             |                            R&D                             |                            R&D                             |                            R&D                             |
@@ -944,7 +944,7 @@ TBD
 
 ### Presentation
 
-- - [UpStageAILAB-4th-Competition-IR-Presentation-IR4-20241025.pptx]([TBD](https://docs.google.com/presentation/d/18v89iJzpVrBSn4RgcgUDYV5_aZA37hrc/edit?usp=sharing&ouid=102302788798357252978&rtpof=true&sd=true))
+- - [UpStageAILAB-4th-Competition-IR-Presentation-IR4-20241025.pptx](https://docs.google.com/presentation/d/18v89iJzpVrBSn4RgcgUDYV5_aZA37hrc/edit?usp=sharing&ouid=102302788798357252978&rtpof=true&sd=true)
 
 ### Reference
 
